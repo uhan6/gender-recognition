@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.startupEditor": "newUntitledFile",
+		"workbench.iconTheme": "vscode-icons",
+		"python.linting.pylintArgs": [
+			// "--disable=C",
+			// "--disable=E1101",
+			// "--disable=C0303",
+			"--extension-pkg-whitelist=numpy"
+		],
+		"git.autofetch": true,
+		"explorer.confirmDelete": false,
+		"explorer.confirmDragAndDrop": false
+	}
+}
