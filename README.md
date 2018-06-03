@@ -6,8 +6,6 @@
 
 通过CNN神经网络，把输入的人脸图片分辨为男性或女性
 
----
-
 ## 数据集要求：
 
 [CNBC数据集](http://wiki.cnbc.cmu.edu/Face_Place)
